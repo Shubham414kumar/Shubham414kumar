@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shubham kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1558759/screenshots/6301370/template_s.gif">
+<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1558759/screenshots/6301370/template_s.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham414kumar&label=Profile%20views&color=0e75b6&style=flat" alt="shubham414kumar" /> </p>
 
