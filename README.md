@@ -32,14 +32,20 @@ I'm a B.Tech Computer Science student at Bihar Engineering University and a cybe
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham414kumar&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=cccccc" alt="Shubham's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Shubham414kumar&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakNum=cccccc&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc" alt="Shubham's Streak" width="48%" />
+  <a href="https://github.com/Shubham414kumar">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shubham414kumar&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=cccccc" alt="Shubham's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Shubham414kumar">
+    <img src="https://streak-stats.demolab.com/?user=Shubham414kumar&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakNum=cccccc&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc" alt="Shubham's Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham414kumar&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=cccccc" alt="Top Languages" />
+  <a href="https://github.com/Shubham414kumar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham414kumar&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=cccccc" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -47,7 +53,9 @@ I'm a B.Tech Computer Science student at Bihar Engineering University and a cybe
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham414kumar&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
+  <a href="https://github.com/Shubham414kumar">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shubham414kumar&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
