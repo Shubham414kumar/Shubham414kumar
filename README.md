@@ -1,27 +1,55 @@
-# 💫 About Me:
-🔭 I’m currently working on building projects like web apps and a JARVIS-like AI assistant<br>👯 I’m looking to collaborate on innovative tech and cybersecurity-related projects<br>🤝 I’m looking for help with advanced ethical hacking and real-world implementations<br>🌱 I’m currently learning Data Structures, Web Development, and Cybersecurity<br>💬 Ask me about C++, JAVA ,  basic hacking concepts, and web projects<br>⚡ Fun fact: I enjoy turning ideas into real working projects and sharing knowledge through content
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Shubham%20Kumar&fontSize=70&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20SOC%20Analyst&descAlignY=55&descSize=20&descColor=00aa00" />
+</div>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100093173431163) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the__shubham1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-6086b32a8) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shubham-Kumar-20508) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Hopeful_Heat6528) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@the_Shubham18) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCzE417gI9R_wuVPmQ1UiLdg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SHUBHAMMRDM394@GMAIL.COM) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHUBHAM414KUMAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHUBHAM414KUMAR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAM414KUMAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHUBHAM414KUMAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHUBHAM414KUMAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22)%3B;echo+%22I+break+systems+so+attackers+can't.%22;sudo+rm+-rf+%2Fvulnerabilities;" alt="Typing SVG" />
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHUBHAM414KUMAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🕵️‍♂️ About Me
+I'm a B.Tech Computer Science student at Bihar Engineering University and a cybersecurity practitioner moving between the red and blue teams. I specialize in **Penetration Testing, VAPT, and SOC analytics** — with a solid software engineering backbone.
+
+- 🔭 I’m currently working on **building secure applications and AI tools**
+- 🛡️ I’m focused on **Vulnerability Assessment and Penetration Testing (VAPT)**
+- 👯 I’m looking to collaborate on **innovative tech and cybersecurity-related projects**
+- 👨‍🏫 I run workshops on **Offensive Security, OWASP Top 10, and Incident Response**
+- 💬 Ask me about **Ethical Hacking, React, C++, JAVA, and SOC**
+- 📫 How to reach me: [shubhammrdm394@gmail.com](mailto:shubhammrdm394@gmail.com)
+- ⚡ Fun fact: I enjoy turning ideas into real working projects and breaking them to make them secure!
+
+---
+
+### 💻 My Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws,python,js,ts,react,nextjs,nodejs,express,mysql,postgres,java,cpp,bash,git,github,vercel,netlify" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham414kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="Shubham's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham414kumar&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Shubham's Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham414kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham414kumar&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham414kumar&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
