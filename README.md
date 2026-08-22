@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Shubham%20Kumar&fontSize=70&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20SOC%20Analyst&descAlignY=55&descSize=20&descColor=00aa00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:220000&height=200&section=header&text=Shubham%20Kumar&fontSize=70&fontColor=ff0000&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20SOC%20Analyst&descAlignY=55&descSize=20&descColor=bb0000" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22)%3B;echo+%22I+break+systems+so+attackers+can't.%22;sudo+rm+-rf+%2Fvulnerabilities;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF0000&center=true&vCenter=true&width=800&lines=nmap+-sS+-sV+-p-+-T4+-A+-v+10.10.10.x;python3+-c+'import+pty;pty.spawn(%22%2Fbin%2Fbash%22)';msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;sqlmap+-u+%22http%3A%2F%2Ftarget.com%2Fvuln.php%3Fid%3D1%22+--dbs;nc+-lvnp+4444+%3E+rev_shell.sh;hashcat+-m+1000+-a+0+hash.txt+rockyou.txt;whoami+%26%26+id+%26%26+uname+-a" alt="Hacker Typing SVG" />
 </h3>
 
 ---
@@ -24,7 +24,7 @@ I'm a B.Tech Computer Science student at Bihar Engineering University and a cybe
 ### 💻 My Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws,python,js,ts,react,nextjs,nodejs,express,mysql,postgres,java,cpp,bash,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws,python,js,ts,react,nextjs,nodejs,express,mysql,postgres,java,cpp,bash,git,github,vercel,netlify&theme=dark" />
 </p>
 
 ---
@@ -32,12 +32,14 @@ I'm a B.Tech Computer Science student at Bihar Engineering University and a cybe
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham414kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="Shubham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham414kumar&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Shubham's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham414kumar&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=cccccc" alt="Shubham's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Shubham414kumar&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakNum=cccccc&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc" alt="Shubham's Streak" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham414kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham414kumar&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=cccccc" alt="Top Languages" />
 </div>
 
 ---
@@ -51,6 +53,5 @@ I'm a B.Tech Computer Science student at Bihar Engineering University and a cybe
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham414kumar&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham414kumar&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
