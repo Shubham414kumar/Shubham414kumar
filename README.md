@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/EMAIL-00ff88?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="shubham1-protfolio.netlify.app
+<a href="https://shubham1-protfolio.netlify.app/
   ">
 <img src="https://img.shields.io/badge/PORTFOLIO-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
